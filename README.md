@@ -1,5 +1,5 @@
 # maskForKZ
-pip3 install flask
+pip3 install flask \n
 to run use "python3 main.py" in "app/main.py"
 
 Supports inputs
